@@ -51,10 +51,6 @@ The goal is to make club information easier to access while giving the Discord s
 
 ## Example Interactions
 
-> Add screenshots here showing the bot answering common club questions.
-
-Recommended screenshots to include:
-
 ```markdown
 ![Bot answering a practice schedule question](assets/schedule-response.png)
 
