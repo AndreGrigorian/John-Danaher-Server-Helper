@@ -43,8 +43,10 @@ def can_use_global():
 
 channel_histories = {}  # channel_id: [...]
 MAX_HISTORY = 30     # how many exchanges to remember
-TRIGGER_KEYWORDS = ["john", "danaher", "dannaher",
-                    "club dig", "bteam", "b team", "b-team", "helena", "gordon", "slide by"]
+TRIGGER_KEYWORDS = ["john", "jon", "danaher", "dannaher",
+                    "club dig", "bteam", "b team", "b-team", 
+                    "helena", "gordon", "slide by", "forge", 
+                    "eric", "heel"]
 
 CUSTOM_REACTIONS = {
     # "club dig": lambda msg: f"""They mentioned club dig. You really love the club dig technique, it is basically gods nectar, it is the most
