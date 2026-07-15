@@ -48,11 +48,3 @@ This bot helps members of the CSUN Brazilian Jiu-Jitsu Club answer questions suc
 The goal is to make club information easier to access while giving the Discord server a more fun and community specific identity.
 
 
-## Example Interactions
-
-```markdown
-![Bot answering a practice schedule question](assets/schedule-response.png)
-
-![Bot answering a new member onboarding question](assets/onboarding-response.png)
-
-![Bot responding to a BJJ themed keyword trigger](assets/personality-response.png)
